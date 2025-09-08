@@ -68,13 +68,13 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Marinduque State University",
+      degree: "Bachelor of Science in Computer Engineering",
+      dateRange: "2022 - 2026",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "P.I.O MarSU - ICpEP.se (2023-2024)",
+        "Classroom Vice President - External (2024-2025)"
+        "Classroom P.I.O (2025-2026)",
       ],
     },
     {
