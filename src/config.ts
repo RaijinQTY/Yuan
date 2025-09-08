@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Julian Dave Moros",
   title: "Blockchain Engineer",
   description: "DevPortfolio of Yuan",
-  accentColor: "#ec7e10ff",
+  accentColor: "#39a0f4ff",
   social: {
     email: "julianmoros11@gmail.com",
     twitter: "https://x.com/flyn_raijin",
@@ -68,22 +68,22 @@ export const siteConfig = {
   ],
   education: [
   {
-    school: "Marinduque National High School",
-    degree: "Senior High School",
-    dateRange: "2018-2020",
-    logo: "/mnhs-logo.png",   // ✅ Correct path
-    achievements: ["With Honor (Average Grade: 90)"],
-  },
-  {
     school: "Marinduque State University",
     degree: "Bachelor of Science in Computer Engineering",
     dateRange: "2022 - 2026",
-    logo: "/marsu-logo.png",  // ✅ Correct path
+    logo: "/marsu-logo.png",  
     achievements: [
       "P.I.O MarSU - ICpEP.se (2023-2024)",
       "Classroom Vice President - External (2024-2025)",
       "Classroom P.I.O (2025-2026)",
     ],
+  },  
+  {
+    school: "Marinduque National High School",
+    degree: "Senior High School",
+    dateRange: "2018-2020",
+    logo: "/mnhs-logo.png",   
+    achievements: ["With Honor (Average Grade: 90)"],
   },
 ],
 };
