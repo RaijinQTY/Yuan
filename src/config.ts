@@ -13,11 +13,11 @@ export const siteConfig = {
   skills: ["C++", "Arduino", "JavaScript", "Python"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Astrophotography Journey",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "A sky full of stories. Once a week. Since the pandemic sparked my first long nights under the stars, I’ve been chasing galaxies, comets, and nebulae through my lens. Each edition brings you the wonders I’ve captured, the techniques I’ve learned, and the gear that makes it possible — all in a quick read to inspire your own journey into the cosmos.",
+      link: "https://www.facebook.com/groups/179543132779398/search/?q=yuan%20moros",
+      skills: ["Astrophotography", "Photo editing"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
