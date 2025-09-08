@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/RaijinQTY",
   },
   aboutMe:
-    "I’m a Computer Engineer with a strong passion for cryptocurrency and blockchain technology. I enjoy exploring how decentralized systems are reshaping the future of finance, security, and digital ownership. Whether it’s discussing the latest trends in crypto markets, analyzing blockchain innovations, or sharing insights on Web3. I love engaging in meaningful conversations about the ever-evolving world of decentralized technology. My goal is to contribute to projects that harness blockchain’s potential to build a more transparent and inclusive digital future.",
+    "I’m a Computer Engineer with a strong passion for cryptocurrency and blockchain technology. I enjoy exploring how decentralized systems are reshaping the future of finance, security, and digital ownership. Whether it’s discussing the latest trends in crypto markets, analyzing blockchain innovations, or sharing insights on Web3. My goal is to contribute to projects that harness blockchain’s potential to build a more transparent and inclusive digital future.",
   skills: ["C++", "Arduino", "JavaScript", "Python"],
   projects: [
     {
