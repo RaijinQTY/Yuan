@@ -35,34 +35,24 @@ export const siteConfig = {
     },
   ],
   experience: [
-    {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+     {
+      company: "Ethereum Foundation",
+      title: "Blockchain Engineer",
+      dateRange: "Jan 2029 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Built and optimized smart contracts for high-volume decentralized applications",
+        "Led migration of legacy systems to Ethereum Layer 2 scaling solutions",
+        "Improved security of DeFi protocols by conducting smart contract audits",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Riot Games Inc.",
+      title: "Software QA Engineer",
+      dateRange: "Aug 2026 - Dec 2028",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Tested and validated gameplay features and backend services for millions of players worldwide",
+        "Developed automated test scripts that reduced manual QA time by 35%",
+        "Collaborated closely with developers to identify and resolve critical bugs before major releases",
       ],
     },
   ],
