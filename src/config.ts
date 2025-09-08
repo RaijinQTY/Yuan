@@ -15,22 +15,15 @@ export const siteConfig = {
     {
       name: "Astrophotography Journey",
       description:
-        "A sky full of stories. Once a week. Since the pandemic sparked my first long nights under the stars, I’ve been chasing galaxies, comets, and nebulae through my lens. Each edition brings you the wonders I’ve captured, the techniques I’ve learned, and the gear that makes it possible — all in a quick read to inspire your own journey into the cosmos.",
+        "A sky full of stories. Since the pandemic sparked my first long nights under the stars, I’ve been chasing galaxies, comets, and nebulae through my lens. Each edition brings you the wonders I’ve captured, the techniques I’ve learned, and the gear that makes it possible — all in a quick read to inspire your own journey into the cosmos.",
       link: "https://www.facebook.com/groups/179543132779398/search/?q=yuan%20moros",
-      skills: ["Astrophotography", "Photo editing"],
+      skills: ["Astrophotography", "Photo Editing"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
       description:
         "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
       link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
   ],
