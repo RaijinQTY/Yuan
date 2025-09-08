@@ -66,7 +66,10 @@ export const siteConfig = {
     degree: "Senior High School",
     dateRange: "2018-2020",
     logo: "/mnhs-logo.png",   
-    achievements: ["With Honor (Average Grade: 90)"],
+    achievements: [
+      "Science, Technology, Engineering, and Mathematics Strand",
+      "With Honor (Average Grade: 90)",
+    ],
   },
 ],
 };
