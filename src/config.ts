@@ -68,6 +68,14 @@ export const siteConfig = {
   ],
   education: [
     {
+      school: "Marinduque National High Schol",
+      degree: "Senior High School",
+      dateRange: "2018-2020",
+      achievements: [
+        "With Honor (Average Grade: 90)",
+      ],
+    },
+    {
       school: "Marinduque State University",
       degree: "Bachelor of Science in Computer Engineering",
       dateRange: "2022 - 2026",
@@ -77,15 +85,6 @@ export const siteConfig = {
         "Classroom P.I.O (2025-2026)",
       ],
     },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
-    },
+    
   ],
 };
