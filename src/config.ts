@@ -71,14 +71,14 @@ export const siteConfig = {
     school: "Marinduque National High School",
     degree: "Senior High School",
     dateRange: "2018-2020",
-    logo: "/images/mnhs-logo.png",
+    logo: "/mnhs-logo.png",   // ✅ Correct path
     achievements: ["With Honor (Average Grade: 90)"],
   },
   {
     school: "Marinduque State University",
     degree: "Bachelor of Science in Computer Engineering",
     dateRange: "2022 - 2026",
-    logo: "/images/marsu-logo.png",
+    logo: "/marsu-logo.png",  // ✅ Correct path
     achievements: [
       "P.I.O MarSU - ICpEP.se (2023-2024)",
       "Classroom Vice President - External (2024-2025)",
