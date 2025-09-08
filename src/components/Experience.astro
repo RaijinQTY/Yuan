@@ -1,3 +1,7 @@
+---
+import { siteConfig } from "../config";
+const hasExperience = siteConfig.experience && siteConfig.experience.length > 0;
+---
 {
   hasExperience && (
     <section id="experience" class="p-8 sm:p-12 md:p-16 lg:p-24">
