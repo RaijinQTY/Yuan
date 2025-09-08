@@ -57,7 +57,7 @@ export const siteConfig = {
   {
     school: "Marinduque National High School",
     degree: "Senior High School",
-    dateRange: "2018-2020",
+    dateRange: "2019-2021",
     logo: "/mnhs-logo.png",   
     achievements: [
       "Science, Technology, Engineering, and Mathematics Strand",
