@@ -73,7 +73,7 @@ export const siteConfig = {
       dateRange: "2022 - 2026",
       achievements: [
         "P.I.O MarSU - ICpEP.se (2023-2024)",
-        "Classroom Vice President - External (2024-2025)"
+        "Classroom Vice President - External (2024-2025)",
         "Classroom P.I.O (2025-2026)",
       ],
     },
