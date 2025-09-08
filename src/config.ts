@@ -19,13 +19,6 @@ export const siteConfig = {
       link: "https://www.facebook.com/groups/179543132779398/search/?q=yuan%20moros",
       skills: ["Astrophotography", "Photo Editing"],
     },
-    {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
-      description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
   ],
   experience: [
      {
